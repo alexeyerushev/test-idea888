@@ -1,2 +1,2 @@
 line 1
-line 2 in 1.txt
+line 2 in 1.txt branch_with_conflicts
